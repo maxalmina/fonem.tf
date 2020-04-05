@@ -1,2 +1,2 @@
-# fonem.tf
-TensorFlow training that focused on deep sequence modelling
+# van-Cog
+My Final Project in Tel-U
